@@ -1,3 +1,4 @@
+logo: "D:\diaperfra\LMSX\descarga.jpg"
 ---
 title: Index
 layout: home
