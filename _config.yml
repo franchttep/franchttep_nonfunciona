@@ -8,4 +8,4 @@ aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 search_enable: false
 logo: "https://github.com/franchttep/franchttep.github.io/blob/main/descarga.jpg"
-favicon_ico: "https://github.com/franchttep/franchttep.github.io/blob/main/descarga.jpg"
+favicon_ico: <"https://github.com/franchttep/franchttep.github.io/blob/main/descarga.jpg">
