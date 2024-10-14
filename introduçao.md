@@ -1,6 +1,9 @@
 ---
 title: Introduçao
 layout: home
+nav_order: 1
+description: "OSVALDO"
+permalink: /
 ---
 Este es la primera páginaque aprendo a hacer sin usar html, lo cual me parece mucho mas facil, pero Osvaldo me motiva.
 
