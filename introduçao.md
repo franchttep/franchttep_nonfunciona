@@ -2,6 +2,7 @@
 title: Introduçao
 layout: home
 ---
+
 Este es la primera páginaque aprendo a hacer sin usar html, lo cual me parece mucho mas facil, pero Osvaldo me motiva.
 
 
